@@ -1,0 +1,14 @@
+C:\Users\jwhit\source\repos\DockerTestProject\DockerTestProject\bin\Release\netcoreapp3.1\DockerTestProject.exe
+C:\Users\jwhit\source\repos\DockerTestProject\DockerTestProject\bin\Release\netcoreapp3.1\DockerTestProject.deps.json
+C:\Users\jwhit\source\repos\DockerTestProject\DockerTestProject\bin\Release\netcoreapp3.1\DockerTestProject.runtimeconfig.json
+C:\Users\jwhit\source\repos\DockerTestProject\DockerTestProject\bin\Release\netcoreapp3.1\DockerTestProject.runtimeconfig.dev.json
+C:\Users\jwhit\source\repos\DockerTestProject\DockerTestProject\bin\Release\netcoreapp3.1\DockerTestProject.dll
+C:\Users\jwhit\source\repos\DockerTestProject\DockerTestProject\bin\Release\netcoreapp3.1\DockerTestProject.pdb
+C:\Users\jwhit\source\repos\DockerTestProject\DockerTestProject\obj\Release\netcoreapp3.1\DockerTestProject.csproj.AssemblyReference.cache
+C:\Users\jwhit\source\repos\DockerTestProject\DockerTestProject\obj\Release\netcoreapp3.1\DockerTestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jwhit\source\repos\DockerTestProject\DockerTestProject\obj\Release\netcoreapp3.1\DockerTestProject.AssemblyInfoInputs.cache
+C:\Users\jwhit\source\repos\DockerTestProject\DockerTestProject\obj\Release\netcoreapp3.1\DockerTestProject.AssemblyInfo.cs
+C:\Users\jwhit\source\repos\DockerTestProject\DockerTestProject\obj\Release\netcoreapp3.1\DockerTestProject.csproj.CoreCompileInputs.cache
+C:\Users\jwhit\source\repos\DockerTestProject\DockerTestProject\obj\Release\netcoreapp3.1\DockerTestProject.dll
+C:\Users\jwhit\source\repos\DockerTestProject\DockerTestProject\obj\Release\netcoreapp3.1\DockerTestProject.pdb
+C:\Users\jwhit\source\repos\DockerTestProject\DockerTestProject\obj\Release\netcoreapp3.1\DockerTestProject.genruntimeconfig.cache

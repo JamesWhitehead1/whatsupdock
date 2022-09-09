@@ -1,0 +1,5 @@
+C:\Users\jwhit\source\repos\DockerTestProject\DockerTestProject\bin\Release\netcoreapp3.1\publish\DockerTestProject.exe
+C:\Users\jwhit\source\repos\DockerTestProject\DockerTestProject\bin\Release\netcoreapp3.1\publish\DockerTestProject.dll
+C:\Users\jwhit\source\repos\DockerTestProject\DockerTestProject\bin\Release\netcoreapp3.1\publish\DockerTestProject.deps.json
+C:\Users\jwhit\source\repos\DockerTestProject\DockerTestProject\bin\Release\netcoreapp3.1\publish\DockerTestProject.runtimeconfig.json
+C:\Users\jwhit\source\repos\DockerTestProject\DockerTestProject\bin\Release\netcoreapp3.1\publish\DockerTestProject.pdb
